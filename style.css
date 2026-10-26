@@ -83,7 +83,7 @@ html{scroll-padding-top:120px}
 .skip-link{z-index:101}
 @media(max-width:650px){html{scroll-padding-top:145px}}
 
-/* Portrait crop: original pixel window x=252, y=60, width=520, height=650.
+/* Portrait crop: original pixel window x=150, y=40, width=1200, height=1500.
    Percentage positioning keeps this framing consistent on mobile. */
 .headshot-frame{position:relative;width:100%;aspect-ratio:4/5;overflow:hidden;border-radius:2px}
-.headshot-photo{position:absolute;display:block;width:196.923077%;max-width:none;height:auto;left:-48.461538%;top:-9.230769%}
+.headshot-photo{position:absolute;display:block;width:125%;max-width:none;height:auto;left:-12.5%;top:-2.666667%}
